@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This web app is the culmination of my journey through the front-end development course. Utilizing React, I've put my skills into practice to create a web application for the Little Lemon restaurant. In this project, I've tackled exercises, followed instructions, and incorporated code snippets and resources from previous courses.
+This web app is the culmination of my journey through the front-end development course.
 
 ### Project Features
 
@@ -25,7 +25,7 @@ To run this project locally or access it online, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Shuvo-TD/Little_Lemon_Website.git
 
 ## Installation and Usage
 
