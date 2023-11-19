@@ -53,7 +53,5 @@ To run this project locally, follow these steps:
     
 Open your web browser and visit http://localhost:3000 to use the Little Lemon Restaurant booking form.
 
-## Peer Review
-   
-   This project will be reviewed by your peers in the course. They will evaluate the design, accessibility, functionality, and   correctness of the web app. Feedback from  peers will contribute to final assessment.
+
  
